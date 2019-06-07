@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class GFG 
+class KthOdd 
 {
     static int kthOdd(int arr[], int n, int k) 
     { 
